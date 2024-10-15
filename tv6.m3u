@@ -53,3 +53,23 @@ http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/32212
 http://[2409:8087:1a0b:df::4008]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225653/index.m3u8
 #EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" group-title= "动漫",卡酷少儿
 http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
+#EXTINF:-1,黑莓电影
+http://[2409:8087:74d9:21::6]:80/270000001128/9900000095/index.m3u8
+#EXTINF:-1,黑莓动画
+http://[2409:8087:1a0b:df::4006]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
+#EXTINF:-1,睛彩篮球
+http://[2409:8087:1a01:df::7005]/TVOD/88888888/224/3221226027/main.m3u8
+#EXTINF:-1,睛彩少儿
+http://[2409:8087:1a01:df::4051]/TVOD/88888888/224/3221225903/main.m3u8
+#EXTINF:-1,精品体育
+http://[2409:8087:1a0b:df::4004]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
+#EXTINF:-1,睛彩竞技
+http://[2409:8087:1a01:df::7005]/TVOD/88888888/224/3221225897/main.m3u8
+#EXTINF:-1,金牌综艺
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
+#EXTINF:-1,超级体育
+http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000007755/1.m3u8
+#EXTINF:-1,超级综艺
+http://[2409:8087:1a01:df::4003]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
+#EXTINF:-1,大湾区卫视
+http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000011619/index.m3u8
